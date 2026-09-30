@@ -2,7 +2,7 @@
 - 👀 I’m interested in building ui/ux designs with code
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on different cute projects to better my coding skills
-- 📫 How to reach me: onshileribo1@gmail.com
+- 📫 How to reach me: eriboonshil2004@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love singing.
 
